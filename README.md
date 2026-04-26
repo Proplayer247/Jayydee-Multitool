@@ -17,4 +17,4 @@ We believe in transparency. Some antivirus programs might flag this tool because
 
 ## 👑 Credits
 Developed and Maintained by **Jayydee with ai**.
-Get the official version at: [https://www.dropbox.com/scl/fi/p1rv6mlwggnjx0yha3lm2/JayydeeMultitool.exe?rlkey=vc67fvhvqn7k12ol4qakjmx81&st=zmi3lkvk&dl=0]
+Get the official version at: https://www.dropbox.com/scl/fi/53qs2ygsa3v2shoeu83lr/JayydeeMultitool.exe?rlkey=zwlec9pp2vyewjcv79q6b560r&st=1eo806iy&dl=0
